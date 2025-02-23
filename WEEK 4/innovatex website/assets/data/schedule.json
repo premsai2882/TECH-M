@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Opening Keynote",
+        "time": "9:00 AM - 10:00 AM",
+        "track": "General"
+    },
+    {
+        "title": "AI in 2025",
+        "time": "10:30 AM - 12:00 PM",
+        "track": "AI"
+    },
+    {
+        "title": "Web Development Trends",
+        "time": "1:00 PM - 2:30 PM",
+        "track": "web"
+    }
+
+]
