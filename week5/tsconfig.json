@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "baseUrl": "./",
+      "paths": {
+        "@app/*": ["src/app/*"],
+        "@env/*": ["src/environments/*"]
+      }
+    }
+}

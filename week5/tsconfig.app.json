@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      "target": "ES2015",
+      "module": "CommonJS",
+      "moduleResolution": "node",
+      "strict": true,
+      "esModuleInterop": true,
+      "outDir": "./dist",
+      "baseUrl": "./src",
+      "lib": ["dom", "es2020"],
+      "skipDefaultLibCheck": true,
+      "noImplicitAny": false
+    },
+    "include": ["src/**/*"],
+}  
